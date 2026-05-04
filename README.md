@@ -1,2 +1,10 @@
-# Dinamica-POO
-Conteúdo do 2º bimestre, referente à dinâmica de duplas, acerca da vertente da Programação Orientada a Objetos (POO).
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=101010&height=140&section=header&animation=fadeIn"/>
+</p>
+
+# Programação Orientada a Objetos
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=101010&height=140&section=footer"/>
+</p>
