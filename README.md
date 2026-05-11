@@ -9,7 +9,7 @@
 </div align = "center">
   
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Di%C3%A1rio+de+Bordo+(Acompanhado+com+Planner)&width=700&height=45&color=000000&size=24&center=true&vCenter=true">
+  <img src="https://readme-typing-svg.demolab.com?lines=Di%C3%A1rio+de+Bordo+(Acompanhado+com+Planner)&width=700&height=45&color=63A355&size=24&center=true&vCenter=true">
 </p>
 
 <p align="center">
